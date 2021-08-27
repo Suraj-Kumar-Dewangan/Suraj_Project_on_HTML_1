@@ -1,0 +1,48 @@
+h1{
+  color: blue;
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+h2{
+  color: rgb(30, 189, 64);
+  text-align: center;
+  background-color: red;
+}
+
+h3{
+  color: greenyellow;
+  text-align: center;
+  background-color: rgb(236, 11, 169);
+}
+
+h4{
+  color: rgb(226, 5, 5);
+  text-align: center;
+  background-color: rgb(73, 12, 240);
+}
+
+h5{
+  color: rgb(15, 15, 180);
+  text-align: center;
+  background-color: rgba(146, 5, 99, 0.959);
+}
+
+h6{
+  color: rgb(6, 240, 208);
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+.two{
+ color:rgb(240, 10, 10);
+}
+
+#one{
+  color:blue;
+  text-align: left;
+}
+
+div{
+  background-color: yellow;
+}
